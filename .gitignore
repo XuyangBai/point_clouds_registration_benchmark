@@ -1,0 +1,7 @@
+eth/
+planetary/
+kaist/
+tum/
+data/
+__pycache__/*
+*.pyc
